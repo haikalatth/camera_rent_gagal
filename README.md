@@ -1,4 +1,4 @@
-# camera_rent
+# Tugas Besar PBO (rental kamera)
 
 ### Muhammad Haikal Atthoriq
  201810370311248
